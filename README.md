@@ -1,8 +1,6 @@
 # css-clock
 dark &amp; bright clock by css
 
-- dark: [dark](http://div.gg/demo/clock/clock-dark.html)
-- light: [light](http://div.gg/demo/clock/clock-light.html)
+- dark preview: [dark](http://div.gg/demo/clock/clock-dark.html)
+- light preview: [light](http://div.gg/demo/clock/clock-light.html)
 
-
-![](http://div.gg/demo/clock/image/GIF.gif)
